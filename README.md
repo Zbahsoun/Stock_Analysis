@@ -28,6 +28,5 @@ On the other hand, refactoring a code can be time consuming if we need to debug 
 
 ### The Advantages of Refactoring Stock Analysis
 As we see ——
-https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2017.png
+![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2018.png
-![VBA_Challenge_2017](zeinabbahsoun/Desktop/VBA_Challenge/Resources_VBA_Challenge_2017.png)

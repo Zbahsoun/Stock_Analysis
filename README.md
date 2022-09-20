@@ -37,7 +37,7 @@ As we see in the below snapshots, the orginal code run time for 2017 and 2018 is
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Original%20Code/VBA_Challenge_2017.png)
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Original%20Code/VBA_Challenge_2018.png)
 
-After refactoring the code, the run time for 2017 and 2018 is 0.09 seconds.
+After refactoring the code, the run time for 2017 and 2018 is 0.08 seconds.
 
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2018.png)

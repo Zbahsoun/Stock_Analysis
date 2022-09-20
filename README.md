@@ -31,11 +31,14 @@ It’s efficient to refactor a code as it takes fewer steps, resulting in using 
 On the other hand, refactoring a code can be time consuming if we need to debug or try and understand the code and it’s functionality especially when it’s not titled and clear.
 
 ### The Advantages of Refactoring Stock Analysis
+
 As we see in the below snapshots, the orginal code run time for 2017 and 2018 is 0.3 seconds.
+
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Original%20Code/VBA_Challenge_2017.png)
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Original%20Code/VBA_Challenge_2018.png)
 
 After refactoring the code, the run time for 2017 and 2018 is 0.09 seconds.
+
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 

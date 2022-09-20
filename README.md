@@ -13,7 +13,7 @@ The data presented includes 12 different stocks listed under the ticker value, t
 ### Analysis of green stocks 2017 and 2018
 The tables below display the data for 12 green-energy stocks for years 2017 and 2018, we will be comparing the yearly return and the total daily volume.
 
-![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2017.png=25%x)
+![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2017.png | width=100)
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2018.png)
 
 The stocks in 2017 had a high ratio of positive returns, except for the TERP stocks. The difference is significant for year 2018 as most of the stocks had a negative return. 

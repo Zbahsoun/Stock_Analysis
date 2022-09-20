@@ -12,7 +12,11 @@ The data presented includes 12 different stocks listed under the ticker value, t
 
 ### Analysis of green stocks 2017 and 2018
 The tables below display the data for 12 green-energy stocks for years 2017 and 2018, we will be comparing the yearly return and the total daily volume.
-The stocks in year 2017 had a high ratio of positive returns, except for the TERP stocks. The difference is significant for year 2018 as most of the stocks had a negative return. 
+
+![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2017.png)
+![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2018.png)
+
+The stocks in 2017 had a high ratio of positive returns, except for the TERP stocks. The difference is significant for year 2018 as most of the stocks had a negative return. 
 
 Since Steve’s parents are interested in investing all their money into the DQ stock, let’s look closely at this stock return. For year 2017, the return was 200%, while in 2018 the return was negative 63% which indicates that this stock is unstable and it will be risky to invest all the money in the DQ stocks.
 
@@ -21,13 +25,18 @@ The daily volume of the DQ stocks for 2017 is considered low if we compare it to
 ## Summary
 
 ### Pros and Cons of Refactoring Code
-Refactoring a code, wether it’s ours or someone else’s have its advantages and disadvantages. 
+Refactoring a code, whether it’s ours or someone else’s have its advantages and disadvantages. 
 It’s efficient to refactor a code as it takes fewer steps, resulting in using less memory and execute the code in less amount of time. 
 
 On the other hand, refactoring a code can be time consuming if we need to debug or try and understand the code and it’s functionality especially when it’s not titled and clear.
 
 ### The Advantages of Refactoring Stock Analysis
-As we see ——
+As we see in the below snapshots, the orginal code run time for 2017 and 2018 is 0.3 seconds.
+![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Original%20Code/VBA_Challenge_2017.png)
+![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Original%20Code/VBA_Challenge_2018.png)
 
+After refactoring the code, the run time for 2017 and 2018 is 0.09 seconds.
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+Refactoring the Stock Analysis code helped running the code faster and process the data more efficiently.

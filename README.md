@@ -13,6 +13,9 @@ The data presented includes 12 different stocks listed under the ticker value, t
 ### Analysis of green stocks 2017 and 2018
 The tables below display the data for 12 green-energy stocks for years 2017 and 2018, we will be comparing the yearly return and the total daily volume.
 
+<img src="[https://camo.githubusercontent.com/...](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2017.png)" width="250" height="250" />
+
+
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2017.png | width=100)
 ![This is an image](https://github.com/Zbahsoun/Stocks_Analysis/blob/main/Stocks/Stocks_2018.png)
 
